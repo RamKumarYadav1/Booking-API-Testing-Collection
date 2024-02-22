@@ -1,6 +1,6 @@
 # Booking-API-Testing-Collection
 
-Created the API Testing Collection for performing API Testing.
+Created the API Testing Collection for performing API Testing on Booking API.
 
 This API allows you to do booking.
 
